@@ -1,8 +1,8 @@
-# remote-container
+## remote-container
 
 Installing VSIX extensions to a remote container to use with VS Code
 
-# Why
+## Why
 
 - Quick
   - This whole process should take 10 minutes from start to finish
@@ -13,12 +13,17 @@ Installing VSIX extensions to a remote container to use with VS Code
 - Feature rich
   - Essentially all vscode functionallity is still here
 
-# Basic Steps
+## Why not
+
+- Slow to setup the first time
+- You enjoy constant headaches
+
+## Basic Steps
 
 1. Pull from Git
 2. Install Remote-Containers extension locally
 3. Run remote container using Remote-Containers
 
-# resources
+## Resources
 
 https://code.visualstudio.com/docs/remote/containers
