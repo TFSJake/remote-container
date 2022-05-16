@@ -1,0 +1,14 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "extensions": [
+        "CucumberOpen.cucumber-official",
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+    ],
+    "settings": {
+        "editor.formatOnSave": true,
+        "files.trimTrailingWhitespace": true
+    }
+}
