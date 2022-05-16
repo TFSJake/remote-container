@@ -5,7 +5,8 @@
     "extensions": [
         "CucumberOpen.cucumber-official",
         "ms-python.python",
-        "ms-python.vscode-pylance"
+        "ms-python.vscode-pylance",
+        "/workspaces/ext/esbenp.prettier-vscode-9.5.0.vsix"
     ],
     "settings": {
         "editor.formatOnSave": true,
